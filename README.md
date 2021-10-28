@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# DotSub TailwindCSS UI Task
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Custom Context Menu
+
+When you run this APP, you can right click to create a New Directory which pops a custom context menu instead of default browser context menu. See below image:
+
+![image description](public/app-screen.png)
 
 ## Available Scripts
 
